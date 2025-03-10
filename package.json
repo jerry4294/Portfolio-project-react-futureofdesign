@@ -1,8 +1,8 @@
 {
-  "name": "/Users/jashanjeetsingh/Portfolio-project-react-futureofdesign",
+  "name": "Portfolio-project-react-futureofdesign",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jerry4294.github.io/portfolio-website-react-2",
+  "homepage": "https://jerry4294.github.io/Portfolio-project-react-futureofdesign",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
